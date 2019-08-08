@@ -1,0 +1,93 @@
+Responsive web components:
+collapsible navbar
+https://www.freecodecamp.org/news/how-to-build-a-responsive-navbar-with-a-toggle-menu-using-flexbox-3438e1d08783/
+full width responsive slider
+Responsive Sticky Footer
+https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
+Responsive iframe
+https://benmarshall.me/responsive-iframes/
+https://blog.theodo.com/2018/01/responsive-iframes-css-trick/
+responsive font-sizes
+https://bits.theorem.co/css-pro-tips-responsive-font-sizes-and-when-to-use-which-units/
+
+Tomoyuki’s listings
+https://www.airbnb.com/users/show/107620772
+Japanese casual house: room1
+https://www.airbnb.com/rooms/29497657?source_impression_id=p3_1563522804_kw9ledqTKZW5O%2Bl0
+Japanese casual house: room2
+https://www.airbnb.com/rooms/30028906?source_impression_id=p3_1563522801_6XIaeUX1HzGF9oyh
+kirishima_tr_map
+http://kirishimakankou.com/pdf/kirishima_tr_map_2016.pdf
+霧島溫泉行程規劃 | 利用霧島巴士一日券規劃霧島溫泉兩日遊!!(霧島景點推薦、交通方式)
+https://kimiyo.tw/2015-11-17-309/
+Map
+https://www.google.com/maps/d/u/0/viewer?mid=1BBjs7aO5aY748yRHkzwIEyq2vpBr_6Lk&ll=31.851037430986207%2C130.79467740000007&z=13
+霧島溫泉一泊二食 | 日本男女混浴，霧島飯店硫黃谷庭院大浴場，霧島溫泉住宿推薦!!
+https://kimiyo.tw/2015-11-13-475/
+Building HTML Page Structure With Skeleton
+https://webdesign.tutsplus.com/tutorials/building-html-page-structure-with-skeleton--cms-23253
+
+
+
+
+
+
+
+
+
+
+
+
+【About Check-in & Check-out】
+
+Check-in: P.M.16:00～
+Check-out: A.M.10:00
+
+
+■Check-in
+I also live in this house, so if you push the doorbell at the entrance I will open the door and meet you.
+
+※However, the door has a digital door lock so you can come and go whenever you want, 24 hours at any time.
+After arrival, I will tell you the password that can be used during your stay.
+
+There is convenience store "LAWSON" near the house so you can shop whenever you want.
+
+
+■Check-out
+・Before leaving the room, please check carefully whether there are any items left behind in the room.
+
+
+【About access】
+My house is near from Kagoshima Airport, Kokubu Station, Hayato Station (both are the names of the stations of West Japan Railway), and you can arrive in about 15 minutes from the three points by vehicle.
+※Hinatayama Station is very near from my house.
+However, the limited express train does not stop at Hinatayama Station. So, if you want to get off at Hinatayama Station, please take a train that stops at each station.
+
+There is a lunch box store called "Hotto Motto" in the neighborhood of my guesthouse. First of all, it is easy to find if you mark the shop as a landmark.
+
+Airbnb comment:
+Actually, Tomoyuki’s house is my first Airbnb, the house is so clean and tidy, the air conditioning is so comfortable and it’s in a peaceful and quiet town. There is a supermarket near the Hinatayama(日當山) train Station, which is just 10 mins work from the house. Just like other said, you don’t have to pay to use the washing machine that other hostel or hotel charge you or even don’t provide, which is wonderful for long stay. You can take a hot spring bath in the bathroom and foot bath outside. Below is about transportation and I’ve written it as in July 2019, which may change and become better later on: Lastly, every guests should be aware of the train and bus schedule, as there are very few buses to the 姫城温泉 Himegi-onsen bus stop in front of the house, like once an hour. The last bus is around 5pm just the same as many other buses in Kirishima. If you plan to go to kirishima shrine, and the spots nearby, you have to check different bus routes and ensure the schedule, as you have to change buses to get to the shrine. The best way is to take the bus at himegi onsen in front of the house to the Kokubu Station, in where, there are more buses to other place and you can find a buses that will stop at kirishima shrine. In addition, the last train from Kagoshima-Shi(鹿児島市), the capital city of Kagoshima Prefecture, to Hayato(隼人) or Kokubu (国分)is around 8pm, and you can not find a bus from Hayato or Kokubu back, you can only change the train at Hayato station not Kokubu to Hinatayama station and walk back home. Please get off at Hayato if you are late at night, and at Hayato station, which has a last train to Hinatayama(日當山) station at around 8:30pm. I won’t suggest anyone to walk from Hayato and Kokubu station to the house at night, as it is dark, and you don’t know the road. If you have time and like hiking or walking, you can try to walk from the house to Hayato or Kokubu station, it is quite an experience if you have time. I have to tell you that, if you are from Kagoshima Airport(KOJ), be sure to get the bus schedule handbook for the kirishima area at tourist information counter, I got it at the tourist information center at Kagoshima-Chūō Station (鹿児島中央駅), and also the train schedule from Kagoshima-Chūō Station to Hayato and from Hayato to Hinatayama as the schedule will list the time for express train(faster train) for you. 
+Below is the information I quoted form Tomoyuki. 
+
+【About transportation】
+■By bus
+My house is very near from the "姫城温泉(Himegi-onsen)" bus stop.
+If you get the bus, please get off at Himegi-onsen bus stop.
+
+・From airport
+→Please get on the bus from No. 4 stop in front of domestic terminal. 
+And please get on the bus bound for 京セラ国分工場(Kyosera Kokubu koujou) or bound for 垂水港(Tarumizukou)
+
+・From Kokubu station
+→Please get on the bus bound for 霧島いわさきホテル(Kirishima Iwasaki hotel) by way of 日当山・妙見 (Hinatayama・Myouken) or bound for 空港(Kuukou)
+※経由=by way of
+
+・From Hayato station
+→Please get on the bus bound for 重久(Shigehisa) by way of 姫城(Himegi)
+※However, it does not operate on weekends. In that case, get off at the 木之房(Kinofusa) bus stop. After that, you can reach 姫城(Himegi) in about 5 minutes on foot.
+
+■By taxi
+Please show the following address to the taxi driver.
+
+霧島市隼人町姫城1-24(my guesthouse address)
+or
+ほっともっと隼人姫城店(Hotto Motto Hayato-Himegi branch)
