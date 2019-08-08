@@ -1,0 +1,155 @@
+/*Reset Border Box*/
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+/*Responsive Image*/
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
+
+/*Retina logo image*/
+#logo-Torii {height: 50px; width: 50px;}
+
+/*background color*/
+header,footer{
+	background:#FFF7C9;
+}
+
+/*Baic styling for link and list*/
+a {
+  color: #222;
+  text-decoration: none; /* no underline */
+}
+ul { 
+	list-style-type: none; 
+	margin: 0; 
+	padding: 0;
+} 
+li a { 
+	display: block; 
+}
+
+/*Full width image slider*/
+.bxslider li {
+  min-height: 100vh;
+  background-size: cover;
+}
+
+/* Typography and front-size*/
+ 
+body {
+  font-size: 16px;
+  letter-spacing: .05em;
+  word-spacing: .08em;
+  color: #222222;
+  font-family: "Raleway", Helvetica, Arial, sans-serif;
+  margin: 0;
+}
+h1, h3{
+  font-family: "Raleway", Helvetica, Arial, sans-serif;
+}
+h4 {
+  font-size: 22px;
+}
+h3 {
+  font-size: 28px;
+}
+
+/*Container centering*/
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%,-50%);
+  -moz-transform: translate(-50%,-50%);
+  -ms-transform: translate(-50%,-50%);
+  -o-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+}
+
+/*The underline style of the heading*/
+.separator {
+  position: relative;
+  margin-bottom: 1.7em;
+  padding-bottom: 1.7em;
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: inherit;
+}
+.separator:before {
+  content: '';
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  width: 86px;
+  height: 2px;
+  background-color: #222;
+ 
+  -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  -o-transform: translateX(-50%);
+  transform: translateX(-50%);
+}
+
+/*Collapsible navbar*/
+#header {
+  display: flex;
+  align-items: baseline;
+}
+
+#logo {
+  display: flex;
+  align-items: baseline;
+}
+
+.Navbar__Items {
+  display: flex;
+  justify-content: space-around;
+  font-size: 28px;
+}
+
+.Navbar__Link-toggle {
+  display: none;
+}
+
+@media only screen and (max-width: 800px) {
+  .Navbar__Items,
+  #header {
+    flex-direction: column;
+  }
+  .Navbar__Items {
+    display:none;
+  }
+  .Navbar__ToggleShow {
+    display: flex;
+  }
+  .Navbar__Link-toggle {
+    align-self: flex-end;
+    display: initial;
+    position: absolute;
+    cursor: pointer;
+   } 
+}
+/*Responsive Sticky Footer by flexbox*/
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+main {
+  flex: 1;
+}
+/*line above footer*/
+footer{
+	border-top: 1px solid #222;
+}
